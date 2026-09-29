@@ -4,6 +4,8 @@ Mask a phone, email, card, Aadhaar, PAN, GSTIN, JWT, API key, connection string,
 
 **Version:** 0.1.1. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
 
+Docs: https://nuvyntralabs.github.io/packages/nuvyntralabs-net-datamask/
+
 ```bash
 dotnet add package NuvyntraLabs.NET.DataMask
 ```
