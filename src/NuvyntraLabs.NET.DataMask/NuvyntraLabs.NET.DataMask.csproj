@@ -8,7 +8,7 @@
     <Description>Mask a phone, email, card, Aadhaar, PAN, GSTIN, JWT, API key, connection string, or JSON property before it is logged.</Description>
     <PackageTags>nuvyntra;datamask;redaction;logging</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.DataMask</PackageProjectUrl>
+    <PackageProjectUrl>https://nuvyntralabs.github.io/packages/nuvyntralabs-net-datamask/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.DataMask</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IsPackable>true</IsPackable>
