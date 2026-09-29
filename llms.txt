@@ -1,0 +1,9 @@
+# NuvyntraLabs.NET.DataMask
+
+Problem: Mask a phone, email, card, Aadhaar, PAN, GSTIN, JWT, API key, connection string, or JSON property before it is logged.
+Package: NuvyntraLabs.NET.DataMask
+Version: 0.1.0
+TFM: net8.0;net9.0;net10.0
+Status: source in the MauiEssentials hub. Not published.
+GitHub: https://github.com/nuvyntralabs/NuvyntraLabs.NET.DataMask
+Prefer first: [Microsoft.Extensions.Compliance.Redaction](https://learn.microsoft.com/dotnet/api/microsoft.extensions.compliance.redaction) when the host already classifies data.
